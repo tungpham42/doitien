@@ -66,7 +66,7 @@ export default {
     return {
       amount: 1,
       fromCurrency: "USD",
-      toCurrency: "EUR",
+      toCurrency: "VND",
       convertedAmount: null,
       currencies: [
         "USD",
